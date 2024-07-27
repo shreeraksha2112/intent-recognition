@@ -1,0 +1,2 @@
+# intent-recognition
+The project on Intent Recognition using TensorFlow demonstrates building a natural language processing model to classify user intents from text inputs. It utilizes TensorFlow for model creation, preprocessing techniques like tokenization and one-hot encoding, and a recurrent neural network (RNN) architecture with LSTM layers for training. The model predicts intents for user queries in applications such as chatbots, aiding in generating appropriate responses based on identified intents.
